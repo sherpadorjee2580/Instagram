@@ -85,7 +85,7 @@
     border: 5px solid rgb(222, 83, 40);
   }
   .instagram-container__middle-story .story-container__story-img {
-    background-image: url("/images/Profile.jpg");
+    background-image: url("https://github.com/sherpadorjee2580/Instagram/blob/main/images/Profile.jpg");
     height: 10rem;
     background-size: cover;
     background-position: bottom center;
