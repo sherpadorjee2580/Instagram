@@ -341,4 +341,16 @@
     font-weight: 600;
     color: steelblue;
   }
+
+  @media (max-width: 480px) {
+    .instagram-container .instagram-container__right {
+      display: none;
+    }
+    .instagram-container .instagram-container__middle {
+      width: 85%;
+    }
+    .instagram-container .instagram-container__left p {
+      display: none;
+    }
+}
  
