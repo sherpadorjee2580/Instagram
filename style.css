@@ -85,7 +85,7 @@
     border: 5px solid rgb(222, 83, 40);
   }
   .instagram-container__middle-story .story-container__story-img {
-    background-image: url("images/Profile.jpg");
+    background-image: url("./images/Profile.jpg");
     height: 10rem;
     background-size: cover;
     background-position: bottom center;
@@ -130,7 +130,7 @@
     border: 5px solid rgb(222, 83, 40);
   }
   .instagram-container__middle-post .post-container__top-left .border .userPic {
-    background-image: url("images/Profile.jpg");
+    background-image: url("./images/Profile.jpg");
     height: 7.8rem;
     background-size: cover;
     background-position: bottom center;
@@ -163,7 +163,7 @@
   .instagram-container__middle-post .post-container__middle {
     height: 55rem;
     width: 100%;
-    background-image: url("images/luise-and-nic-19PEGayr4aA-unsplash.jpg");
+    background-image: url("./images/luise-and-nic-19PEGayr4aA-unsplash.jpg");
     background-size: cover;
     background-position: center;
     border-radius: 1.6rem;
@@ -261,7 +261,7 @@
     align-items: center;
   }
   .instagram-container__right-switch .user__info-pic {
-    background-image: url("images/Profile.jpg");
+    background-image: url("./images/Profile.jpg");
     height: 10rem;
     width: 10rem;
     border-radius: 50%;
@@ -318,7 +318,7 @@
     align-items: center;
   }
   .instagram-container__right-suggestionInfo .user-container__info-pic {
-    background-image: url("images/Profile.jpg");
+    background-image: url("./images/Profile.jpg");
     height: 10rem;
     width: 10rem;
     border-radius: 50%;
